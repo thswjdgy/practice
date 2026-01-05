@@ -1,0 +1,18 @@
+img {
+    width:300px;
+    height:500px;
+}
+
+div 
+{
+    background-color: red;
+    text-align: center;
+}
+
+#xxx {
+    border: 10px solid pink;
+}
+
+.xxx {
+    border: 10px solid green;
+}
